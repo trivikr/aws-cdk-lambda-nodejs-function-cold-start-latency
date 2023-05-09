@@ -1,5 +1,5 @@
 {
-  "name": "aws_cdk_lambda_node_js_function_cold_start_latency",
+  "name": "aws-cdk-lambda-nodejs-function-cold-start-latency",
   "version": "0.1.0",
   "workspaces": [
     "packages/*"
