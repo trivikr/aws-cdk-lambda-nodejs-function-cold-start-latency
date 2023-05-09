@@ -1,0 +1,15 @@
+{
+  "name": "aws_cdk_lambda_node_js_function_cold_start_latency",
+  "version": "0.1.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "cdk": "cd packages/infra && yarn cdk",
+    "benchmark": "tsx packages/scripts/src/benchmark.ts"
+  },
+  "packageManager": "yarn@3.5.0",
+  "devDependencies": {
+    "tsx": "^3.12.6"
+  }
+}

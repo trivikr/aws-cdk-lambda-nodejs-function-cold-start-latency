@@ -1,0 +1,11 @@
+{
+  "name": "scripts",
+  "version": "0.1.0",
+  "dependencies": {
+    "@aws-sdk/client-lambda": "3.316.0",
+    "@aws-sdk/client-sfn": "3.316.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.12"
+  }
+}
