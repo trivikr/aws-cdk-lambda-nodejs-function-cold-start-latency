@@ -1,5 +1,7 @@
 # aws-cdk-lambda-nodejs-function-cold-start-latency
 
+> Repro for https://github.com/aws/aws-cdk/issues/25492
+
 A CDK application which tests cold start latency of lambda functions created with AWS CDK Lambda NodeJsFunction construct.
 
 ## Pre-requisites
